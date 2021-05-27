@@ -8,7 +8,7 @@ let largo=55;
 let speed=0.5;
 let lives=2;
  
-let enemigoFilas=12;
+let enemigoFilas=6;
 let enemigosColumnas=4;
 
 let jugador = new player(LimAbajo,limIzquierda,limDerecha,largo,ancho);
